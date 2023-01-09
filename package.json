@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maopengwei/nonode.git"
+    "url": "git+https://github.com/maopenweis/nonode.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maopengwei/nonode/issues"
+    "url": "https://github.com/maopenweis/nonode/issues"
   },
-  "homepage": "https://github.com/maopengwei/nonode#readme",
+  "homepage": "https://github.com/maopenweis/nonode#readme",
   "description": ""
 }
