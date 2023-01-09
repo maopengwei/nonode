@@ -1,6 +1,6 @@
 {
   "name": "@maopenweis/nonode",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
